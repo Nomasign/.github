@@ -10,7 +10,7 @@
 </p>
 </br>
 </br>
-</hr>
+</br>
 
 **Simple Digital Signing for Every Business**
 
