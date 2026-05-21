@@ -2,7 +2,12 @@
   <img src="logo.png" alt="NomaSign" width="300" />
 </p>
 
-# NomaSign
+<p align="center">
+  <a href="https://www.nomasign.com">Website</a> •
+  <a href="https://app.nomasign.com">Web App</a> •
+  <a href="https://chromewebstore.google.com/detail/nomasign-browser-plugin/ajoabdohkndnbggkhdfappoffhhipdmf">Chrome Extension</a> •
+  <a href="https://linkedin.com/company/nomasign">LinkedIn</a>
+</p>
 
 **Simple Digital Signing for Every Business**
 
@@ -23,10 +28,3 @@ NomaSign makes digital signing simple, secure and affordable for businesses of a
 3. Send — signers get a secure link via email
 4. Recipients sign in-browser in under 2 minutes
 5. Completed document auto-saves to your cloud storage with a full audit trail
-
-## Links
-
-- [Website](https://www.nomasign.com)
-- [Web App](https://app.nomasign.com)
-- [Chrome Extension](https://chromewebstore.google.com/detail/nomasign-browser-plugin/ajoabdohkndnbggkhdfappoffhhipdmf)
-- [LinkedIn](https://linkedin.com/company/nomasign)
