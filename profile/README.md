@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="NomaSign" width="300" />
+</p>
+
 # NomaSign
 
 **Simple Digital Signing for Every Business**
