@@ -8,6 +8,9 @@
   <a href="https://chromewebstore.google.com/detail/nomasign-browser-plugin/ajoabdohkndnbggkhdfappoffhhipdmf">Chrome Extension</a> •
   <a href="https://linkedin.com/company/nomasign">LinkedIn</a>
 </p>
+</br>
+</br>
+</hr>
 
 **Simple Digital Signing for Every Business**
 
