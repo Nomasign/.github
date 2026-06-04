@@ -6,6 +6,7 @@
   <a href="https://www.nomasign.com">Website</a> •
   <a href="https://app.nomasign.com">Web App</a> •
   <a href="https://chromewebstore.google.com/detail/nomasign-browser-plugin/ajoabdohkndnbggkhdfappoffhhipdmf">Chrome Extension</a> •
+  <a href="https://microsoftedge.microsoft.com/addons/detail/nomasign-browser-plugin/lhnfjnfcfieihemgadmaamdgpjmgnjoo">Edge Extension</a> •
   <a href="https://linkedin.com/company/nomasign">LinkedIn</a>
 </p>
 </br>
